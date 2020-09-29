@@ -3,10 +3,10 @@ title: "STaRFlow: A SpatioTemporal Recurrent Cell for Lightweight Multi-Frame Op
 collection: publications
 permalink: /publication/2020arxiv-starflow
 # excerpt: 'Pierre Godet, Alexandre Boulch, Aurélien Plyer, Guy Le Besnerais.'
-date: 2020
+date: 2020-07-10
 #venue: 'IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops (Best Student Paper Award)'
 # paperurl: 'http://pgodet.github.io/files/2020arxiv-starflow.pdf'
-# citation: Pierre Godet, Alexandre Boulch, Aurélien Plyer, Guy Le Besnerais
+citation: Pierre Godet, Alexandre Boulch, Aurélien Plyer, Guy Le Besnerais
 ---
 
 [[Preprint]](https://arxiv.org/pdf/2007.05481.pdf) [[PDF]](http://pgodet.github.io/files/2020arxiv-starflow.pdf) [[BibTeX]](http://pgodet.github.io/files/godet2020starflow.bib) [[GitHub]](https://github.com/pgodet/star_flow)
